@@ -106,7 +106,7 @@ Please contact me at your earliest convenience.
 
 Thank you!`;
 
-    const mailtoLink = `mailto:satyajitpatel770001@gmail.com?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(body)}`;
+    const mailtoLink = `mailto:abhisekpatel2213@gmail.com?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(body)}`;
     window.location.href = mailtoLink;
   };
 
@@ -397,11 +397,11 @@ Thank you!`;
             <p className="text-xl text-gray-400">Ready to transform your space? Let's discuss your painting needs and provide you with a customized solution.</p>
             <div className="mt-6 flex flex-col sm:flex-row items-center justify-center gap-4">
               <a 
-                href="mailto:satyajitpatel770001@gmail.com" 
+                href="mailto:abhisekpatel2213@gmail.com" 
                 className="inline-flex items-center text-pink-400 hover:text-pink-300 transition-colors font-medium"
               >
                 <Mail className="w-5 h-5 mr-2" />
-                satyajitpatel770001@gmail.com
+                abhisekpatel2213@gmail.com
               </a>
               <span className="text-gray-500 hidden sm:block">|</span>
               <a 
